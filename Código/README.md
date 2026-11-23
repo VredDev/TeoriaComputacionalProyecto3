@@ -34,6 +34,6 @@ Sistema de validación léxica y sintáctica desarrollado en **Python** que apli
 ## Estructura del Proyecto
 
 ```text
-├── validador_automatas.py   # Código fuente principal (AFD, AP y modos de ejecución)
+├── main.py   # Código fuente principal (AFD, AP y modos de ejecución)
 ├── casos_prueba.json        # Conjunto de 10 casos de prueba (válidos e inválidos)
 └── README.md                # Documentación del proyecto
